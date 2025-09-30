@@ -1,0 +1,141 @@
+/* configuraçao do site */
+
+body{
+	background-color: #e0e4e7;
+	font-family: Nexa-Heavy;
+	margin: 0;
+	padding: 0;
+}
+/* inicio do site */
+div{
+	background-color: #ef8354;
+	background-image: linear-gradient(to bottom, #C85C04, #ef8354);
+	padding: 10px;
+    border: 1px solid gray;
+    font: arial;
+}
+
+.imagem{
+	background-image: url(img_imagem.png);
+	width: 15%;
+	display: block;
+	margin: auto;
+	border: 2px solid white;
+}
+
+h1{
+	text-align: center;
+	font-family: tahoma, sans-serif;
+}
+
+p.center{
+	text-align: center;
+	padding: 50px;
+	width: 40%;
+	margin: auto;
+	background-color: white;
+	border: 1px solid;
+	border-radius: 3px;
+	box-shadow: 5px 5px 10px;
+}
+
+h2{
+	text-align: center;
+	font-family: ;
+	color: #2DC8B6;
+	text-shadow: 1px 1px 1px black;
+}
+
+.h3{
+	padding-left: 22%;
+	margin-top: 100px;
+	text-align: left;
+}
+
+.imagem2{
+	background-image: url(img_imagem2.png);
+    float: right;
+    margin-right: 200px;
+    width: 20%;
+}
+
+p.right{
+	padding: 25px;
+	width: 25%;
+    background-color: white;
+    border: 1px solid ;
+    border-radius: 4px;
+    margin-left: 18%;
+    margin-top: 110px;
+    box-shadow: 5px 5px 10px;
+    line-height: 1.8;
+}
+
+.h4{
+	padding-left: 45%;
+	padding-top: 100px;
+	margin-top: 100px;
+}
+
+ol.a{
+    padding: 33px;
+    width: 23%;
+    padding-left: 30px;
+    background-color: white;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-left: 58%;
+    margin-top: 100px;
+    box-shadow: 5px 5px 10px;
+}
+
+.imagem3{
+	background-image: url(img_imagem3,png);
+	width: 35%;
+	float: left;
+	margin-left: 200px;
+}
+
+.h5{
+	padding-left: 30%;
+	padding-top: 15%;
+	text-align: left;
+}
+
+.imagem4{
+	background-image: url(img_imagem4.png);
+    float: right;
+    margin-right: 250px;
+    width: 320px;
+    margin-top: 65px;
+}
+
+.h6{
+	background-color: #ef8354;
+	text-align: center;
+	margin-top: 130px;
+}
+
+/* pontape do site */
+header{
+	background-color: #ef8354;
+	padding-bottom: 5%;
+}
+
+footer img{
+	width: 30px;
+	height: 30px;
+}
+
+footer{
+	display: flex;
+	justify-content: center;
+}
+
+footer a{
+	margin: 30px;
+}
+
+footer p{
+	margin-top: 10px;
+}
